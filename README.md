@@ -1,1 +1,1 @@
-# WBAGAIN 5 setup
+# Webpack 5 configuration file
